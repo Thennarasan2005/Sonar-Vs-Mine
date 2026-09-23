@@ -1,2 +1,1 @@
-# Sonar-Vs-Mine
-predicting sonar or mine using ml model
+# sonar-or-mine-prediction-using-machine-learning
